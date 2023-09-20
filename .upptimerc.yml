@@ -1,31 +1,54 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: clone47 # Your GitHub organization or username, where this repository lives
+repo: ecohub-processes-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
+  - name: Ecohub Processes Dev 
+    url: https://giraffe.seliselocal.com
+    icon: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
+    maxResponseTime: 90000
+  - name: Gotenberg PDF Generator Dev
+    url: http://gutenberg.seliselocal.com/health
+    icon: https://gotenberg.dev/img/logo.png
+    maxResponseTime: 90000
+  - name: Giraffe Service Dev
+    url: https://giraffe.seliselocal.com/api/business-giraffe/GiraffeService/management/ping
+    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
+    maxResponseTime: 90000
+  - name: Ecohub Processes Stg
+    url: https://stage-giraffe.selise.biz
+    icon: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
+    maxResponseTime: 90000
+  - name: Gotenberg PDF Generator Stg
+    url: http://gutenberg.seliselocal.com/health
+    icon: https://gotenberg.dev/img/logo.png
+    maxResponseTime: 90000
+  - name: Giraffe Service Stg
+    url: https://stage-giraffe.selise.biz/api/business-giraffe/GiraffeService/management/ping
+    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
+  - name: Ecohub Processes IAT
+    url: https://processes.test-myecohub.ch
+    icon: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
+    maxResponseTime: 90000
+  - name: Ecohub Processes Prod
+    url: https://processes.myecohub.ch
+    icon: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
+    maxResponseTime: 90000
+  - name: Dummy Site 5
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /ecohub-processes-uptime
+  logoUrl: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
+  name: Ecohub Processes
+  introTitle: "**Ecohub Processes** uptime monitor and status page, powered by GitHub."
+  introMessage: No server required — just GitHub Actions, Issues, and Pages. 
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: /ecohub-processes-uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
