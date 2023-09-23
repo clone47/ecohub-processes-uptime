@@ -22,18 +22,20 @@
     "url": "http://gutenberg.seliselocal.com/health",
     "icon": "https://gotenberg.dev/img/logo.png",
     "slug": "gotenberg-pdf-generator-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 258,
     "timeDay": 232,
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-23": 1
+    }
   },
   {
     "name": "Giraffe Service Dev",
@@ -76,9 +78,9 @@
     "url": "http://gutenberg.seliselocal.com/health",
     "icon": "https://gotenberg.dev/img/logo.png",
     "slug": "gotenberg-pdf-generator-stg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +89,9 @@
     "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-23": 0
+    }
   },
   {
     "name": "Giraffe Service Stg",
@@ -160,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-23": 51,
+      "2023-09-23": 450,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
       "2023-09-20": 620
