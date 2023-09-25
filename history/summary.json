@@ -144,21 +144,23 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Dummy Site XYZ",
+    "name": "Dummy Site",
     "url": "https://thissitedoesnotexist.koj.co",
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "dummy-site-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "slug": "dummy-site",
+    "status": "up",
+    "uptime": "1.95%",
+    "uptimeDay": "1.95%",
+    "uptimeWeek": "1.95%",
+    "uptimeMonth": "1.95%",
+    "uptimeYear": "1.95%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-25": 0
+    }
   }
 ]
