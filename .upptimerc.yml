@@ -3,39 +3,46 @@ owner: clone47 # Your GitHub organization or username, where this repository liv
 repo: ecohub-processes-uptime # The name of this repository
 
 sites:
-  - name: Ecohub Processes Dev 
-    url: https://giraffe.seliselocal.com
-    icon: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
-    maxResponseTime: 90000
-  - name: Gotenberg PDF Generator Dev
-    url: http://gutenberg.seliselocal.com/health
-    icon: https://gotenberg.dev/img/logo.png
-    maxResponseTime: 90000
-  - name: Giraffe Service Dev
-    url: https://giraffe.seliselocal.com/api/business-giraffe/GiraffeService/management/ping
-    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
-    maxResponseTime: 90000
-  - name: Ecohub Processes Stg
-    url: https://stage-giraffe.selise.biz
-    icon: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
-    maxResponseTime: 90000
-  - name: Gotenberg PDF Generator Stg
-    url: http://gutenberg.seliselocal.com/health
-    icon: https://gotenberg.dev/img/logo.png
-    maxResponseTime: 90000
-  - name: Giraffe Service Stg
-    url: https://stage-giraffe.selise.biz/api/business-giraffe/GiraffeService/management/ping
-    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
-  - name: Ecohub Processes IAT
-    url: https://processes.test-myecohub.ch
-    icon: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
-    maxResponseTime: 90000
-  - name: Ecohub Processes Prod
+  - name: Ecohub Processes
     url: https://processes.myecohub.ch
     icon: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
     maxResponseTime: 90000
-  - name: Dummy Site CV
-    url: https://thissitedoesnotexist.koj.co
+  - name: Giraffe Business Service
+    url: https://processes.myecohub.ch/api/business-giraffe/GiraffeService/management/ping
+    icon: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
+    maxResponseTime: 90000
+  - name: SELISE Blocks Appcatalogue
+    url: https://processes.myecohub.ch/api/appcatalogue/v1/appcatalogue/management/ping
+    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
+    maxResponseTime: 90000
+  - name: SELISE Blocks GQL Command
+    url: https://processes.myecohub.ch/api/gqlcommand/v1/ping
+    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
+    maxResponseTime: 90000
+  - name: SELISE Blocks GQL Query
+    url: https://processes.myecohub.ch/api/gqlquery/v1/ping
+    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
+    maxResponseTime: 90000
+  - name: SELISE Blocks Identity
+    url: https://processes.myecohub.ch/api/identity/v1/identity/management/ping
+    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
+    maxResponseTime: 90000
+  - name: SELISE Blocks Pdfgenerator2
+    url: https://processes.myecohub.ch/api/pdfgenerator2/v1/PdfGeneratorHost/Management/Ping
+    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
+    maxResponseTime: 90000
+  - name: SELISE Blocks Storage Service
+    url: https://processes.myecohub.ch/api/storageservice/v1/storageservice/management/ping
+    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
+    maxResponseTime: 90000
+  - name: SELISE Blocks Template Engine
+    url: https://processes.myecohub.ch/api/templateengine/v1/templateengineservice/management/ping
+    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
+    maxResponseTime: 90000
+  - name: SELISE Blocks Tenant Manager
+    url: https://processes.myecohub.ch/api/tenant/v1/tenantmanager/management/ping
+    icon: https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png
+    maxResponseTime: 90000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
