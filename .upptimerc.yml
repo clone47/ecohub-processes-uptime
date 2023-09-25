@@ -34,7 +34,7 @@ sites:
     url: https://processes.myecohub.ch
     icon: https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg
     maxResponseTime: 90000
-  - name: Dummy Site DEF
+  - name: Dummy Site CV
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
