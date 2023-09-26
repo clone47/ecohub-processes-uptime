@@ -54,8 +54,11 @@ status-website:
   introTitle: "**Ecohub Processes** uptime monitor and status page"
   introMessage: Powered by GitHub 
   navbar:
+    - title: EP Prod
+      href: processes.myecohub.ch
     - title: Status
-      href: /ecohub-processes-uptime
+      href: /
+#      href: /ecohub-processes-uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
