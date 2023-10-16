@@ -1,7 +1,7 @@
 url: https://processes.myecohub.ch/api/templateengine/v1/templateengineservice/management/ping
 status: up
 code: 200
-responseTime: 199
-lastUpdated: 2023-10-15T23:15:51.970Z
+responseTime: 259
+lastUpdated: 2023-10-16T23:16:16.595Z
 startTime: 2023-09-25T11:16:47.622Z
 generator: Upptime <https://github.com/upptime/upptime>
