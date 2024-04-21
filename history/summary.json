@@ -6,18 +6,16 @@
     "slug": "ecohub-processes",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
     "timeDay": 570,
     "timeWeek": 538,
     "timeMonth": 561,
     "timeYear": 580,
-    "dailyMinutesDown": {
-      "2024-04-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Giraffe Business Service",
@@ -26,18 +24,16 @@
     "slug": "giraffe-business-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 337,
     "timeWeek": 192,
     "timeMonth": 146,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2024-04-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks Appcatalogue",
@@ -46,37 +42,35 @@
     "slug": "selise-blocks-appcatalogue",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
     "timeDay": 881,
     "timeWeek": 483,
     "timeMonth": 369,
     "timeYear": 277,
-    "dailyMinutesDown": {
-      "2024-04-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks GQL Command",
     "url": "https://processes.myecohub.ch/api/gqlcommand/v1/ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-gql-command",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 192,
-    "timeWeek": 261,
-    "timeMonth": 300,
-    "timeYear": 266,
+    "time": 268,
+    "timeDay": 336,
+    "timeWeek": 302,
+    "timeMonth": 310,
+    "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-04-21": 10
+      "2024-04-21": 15
     }
   },
   {
@@ -86,18 +80,16 @@
     "slug": "selise-blocks-gql-query",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 266,
     "timeWeek": 270,
     "timeMonth": 297,
     "timeYear": 275,
-    "dailyMinutesDown": {
-      "2024-04-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks Identity",
@@ -106,37 +98,35 @@
     "slug": "selise-blocks-identity",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
     "timeDay": 410,
     "timeWeek": 328,
     "timeMonth": 318,
     "timeYear": 274,
-    "dailyMinutesDown": {
-      "2024-04-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks Pdfgenerator2",
     "url": "https://processes.myecohub.ch/api/pdfgenerator2/v1/PdfGeneratorHost/Management/Ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-pdfgenerator2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 236,
-    "timeWeek": 299,
-    "timeMonth": 325,
-    "timeYear": 274,
+    "time": 287,
+    "timeDay": 1166,
+    "timeWeek": 602,
+    "timeMonth": 407,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-04-21": 10
+      "2024-04-21": 15
     }
   },
   {
@@ -145,18 +135,18 @@
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-storage-service",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 306,
     "timeDay": 202,
     "timeWeek": 260,
     "timeMonth": 300,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2024-04-21": 10
+      "2024-04-21": 15
     }
   },
   {
@@ -166,18 +156,16 @@
     "slug": "selise-blocks-template-engine",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 1248,
     "timeWeek": 607,
     "timeMonth": 392,
     "timeYear": 287,
-    "dailyMinutesDown": {
-      "2024-04-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks Tenant Manager",
@@ -186,17 +174,15 @@
     "slug": "selise-blocks-tenant-manager",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
     "timeDay": 572,
     "timeWeek": 372,
     "timeMonth": 324,
     "timeYear": 266,
-    "dailyMinutesDown": {
-      "2024-04-21": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
