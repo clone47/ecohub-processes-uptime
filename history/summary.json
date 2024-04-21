@@ -4,19 +4,19 @@
     "url": "https://processes.myecohub.ch",
     "icon": "https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg",
     "slug": "ecohub-processes",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 491,
-    "timeWeek": 514,
-    "timeMonth": 556,
-    "timeYear": 579,
+    "time": 580,
+    "timeDay": 570,
+    "timeWeek": 538,
+    "timeMonth": 561,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2024-04-21": 1
+      "2024-04-21": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://processes.myecohub.ch/api/business-giraffe/GiraffeService/management/ping",
     "icon": "https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg",
     "slug": "giraffe-business-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 123,
-    "timeWeek": 120,
-    "timeMonth": 126,
-    "timeYear": 125,
+    "time": 128,
+    "timeDay": 337,
+    "timeWeek": 192,
+    "timeMonth": 146,
+    "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-04-21": 1
+      "2024-04-21": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://processes.myecohub.ch/api/appcatalogue/v1/appcatalogue/management/ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-appcatalogue",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 186,
-    "timeWeek": 260,
-    "timeMonth": 310,
-    "timeYear": 268,
+    "time": 277,
+    "timeDay": 881,
+    "timeWeek": 483,
+    "timeMonth": 369,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-04-21": 1
+      "2024-04-21": 9
     }
   },
   {
@@ -66,9 +66,9 @@
     "slug": "selise-blocks-gql-command",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 266,
     "timeDay": 192,
@@ -76,7 +76,7 @@
     "timeMonth": 300,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-04-21": 1
+      "2024-04-21": 10
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://processes.myecohub.ch/api/gqlquery/v1/ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-gql-query",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 192,
-    "timeWeek": 252,
-    "timeMonth": 293,
-    "timeYear": 274,
+    "time": 275,
+    "timeDay": 266,
+    "timeWeek": 270,
+    "timeMonth": 297,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-04-21": 1
+      "2024-04-21": 9
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://processes.myecohub.ch/api/identity/v1/identity/management/ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-identity",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 198,
-    "timeWeek": 265,
-    "timeMonth": 301,
-    "timeYear": 272,
+    "time": 274,
+    "timeDay": 410,
+    "timeWeek": 328,
+    "timeMonth": 318,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 9
     }
   },
   {
@@ -126,9 +126,9 @@
     "slug": "selise-blocks-pdfgenerator2",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 274,
     "timeDay": 236,
@@ -136,7 +136,7 @@
     "timeMonth": 325,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 10
     }
   },
   {
@@ -146,9 +146,9 @@
     "slug": "selise-blocks-storage-service",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 202,
@@ -156,7 +156,7 @@
     "timeMonth": 300,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 10
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "https://processes.myecohub.ch/api/templateengine/v1/templateengineservice/management/ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-template-engine",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 185,
-    "timeWeek": 261,
-    "timeMonth": 299,
-    "timeYear": 273,
+    "time": 287,
+    "timeDay": 1248,
+    "timeWeek": 607,
+    "timeMonth": 392,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 9
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://processes.myecohub.ch/api/tenant/v1/tenantmanager/management/ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-tenant-manager",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 221,
-    "timeWeek": 259,
-    "timeMonth": 294,
-    "timeYear": 261,
+    "time": 266,
+    "timeDay": 572,
+    "timeWeek": 372,
+    "timeMonth": 324,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 10
     }
   }
 ]
