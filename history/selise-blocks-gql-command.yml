@@ -1,7 +1,7 @@
 url: https://processes.myecohub.ch/api/gqlcommand/v1/ping
-status: up
-code: 200
-responseTime: 264
-lastUpdated: 2024-04-20T23:15:31.083Z
+status: down
+code: 502
+responseTime: 119
+lastUpdated: 2024-04-21T09:14:56.507Z
 startTime: 2023-09-25T11:16:43.440Z
 generator: Upptime <https://github.com/upptime/upptime>
