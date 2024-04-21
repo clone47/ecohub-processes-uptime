@@ -116,37 +116,35 @@
     "slug": "selise-blocks-pdfgenerator2",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 1166,
     "timeWeek": 602,
     "timeMonth": 407,
     "timeYear": 287,
-    "dailyMinutesDown": {
-      "2024-04-21": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks Storage Service",
     "url": "https://processes.myecohub.ch/api/storageservice/v1/storageservice/management/ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-storage-service",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "85.72%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.93%",
     "time": 306,
-    "timeDay": 202,
-    "timeWeek": 260,
+    "timeDay": 231,
+    "timeWeek": 263,
     "timeMonth": 300,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2024-04-21": 15
+      "2024-04-21": 206
     }
   },
   {
