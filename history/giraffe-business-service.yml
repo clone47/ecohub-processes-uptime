@@ -1,7 +1,7 @@
 url: https://processes.myecohub.ch/api/business-giraffe/GiraffeService/management/ping
-status: down
-code: 503
-responseTime: 117
-lastUpdated: 2024-05-11T05:00:37.649Z
+status: up
+code: 200
+responseTime: 525
+lastUpdated: 2024-05-11T07:59:04.960Z
 startTime: 2023-09-25T11:16:41.707Z
 generator: Upptime <https://github.com/upptime/upptime>
