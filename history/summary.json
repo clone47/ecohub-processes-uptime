@@ -4,36 +4,40 @@
     "url": "https://processes.myecohub.ch",
     "icon": "https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg",
     "slug": "ecohub-processes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
-    "timeDay": 826,
-    "timeWeek": 618,
-    "timeMonth": 568,
+    "timeDay": 646,
+    "timeWeek": 599,
+    "timeMonth": 565,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-11": 0
+    }
   },
   {
     "name": "Giraffe Business Service",
     "url": "https://processes.myecohub.ch/api/business-giraffe/GiraffeService/management/ping",
     "icon": "https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg",
     "slug": "giraffe-business-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 167,
-    "timeWeek": 131,
-    "timeMonth": 145,
+    "timeDay": 142,
+    "timeWeek": 130,
+    "timeMonth": 144,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-11": 0
+    }
   },
   {
     "name": "SELISE Blocks Appcatalogue",
