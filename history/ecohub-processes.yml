@@ -1,7 +1,7 @@
 url: https://processes.myecohub.ch
-status: up
-code: 200
-responseTime: 826
-lastUpdated: 2024-05-10T23:17:23.340Z
+status: down
+code: 503
+responseTime: 466
+lastUpdated: 2024-05-11T05:00:30.152Z
 startTime: 2023-09-25T11:16:40.289Z
 generator: Upptime <https://github.com/upptime/upptime>
