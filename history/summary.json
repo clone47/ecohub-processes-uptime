@@ -156,19 +156,19 @@
     "url": "https://processes.myecohub.ch/api/templateengine/v1/templateengineservice/management/ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-template-engine",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 178,
-    "timeWeek": 314,
-    "timeMonth": 373,
+    "timeDay": 216,
+    "timeWeek": 312,
+    "timeMonth": 371,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-05-12": 0
+      "2024-05-12": 6
     }
   },
   {
