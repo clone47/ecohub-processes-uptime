@@ -82,18 +82,20 @@
     "url": "https://processes.myecohub.ch/api/gqlquery/v1/ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-gql-query",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 194,
-    "timeWeek": 234,
-    "timeMonth": 257,
+    "timeDay": 169,
+    "timeWeek": 227,
+    "timeMonth": 253,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-14": 0
+    }
   },
   {
     "name": "SELISE Blocks Identity",
