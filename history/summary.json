@@ -4,17 +4,17 @@
     "url": "https://processes.myecohub.ch",
     "icon": "https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg",
     "slug": "ecohub-processes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "77.04%",
+    "uptimeDay": "77.02%",
     "uptimeWeek": "96.72%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.85%",
-    "time": 576,
-    "timeDay": 496,
-    "timeWeek": 491,
-    "timeMonth": 550,
-    "timeYear": 576,
+    "time": 577,
+    "timeDay": 542,
+    "timeWeek": 510,
+    "timeMonth": 553,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2024-05-18": 331,
       "2024-05-11": 179
@@ -26,18 +26,18 @@
     "icon": "https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg",
     "slug": "giraffe-business-service",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "77.03%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.84%",
+    "uptimeDay": "75.62%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "99.84%",
     "time": 128,
     "timeDay": 99,
     "timeWeek": 104,
     "timeMonth": 148,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-05-18": 331,
+      "2024-05-18": 351,
       "2024-05-11": 178
     }
   },
@@ -48,9 +48,9 @@
     "slug": "selise-blocks-appcatalogue",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "77.03%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "75.62%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.90%",
     "time": 275,
     "timeDay": 153,
@@ -58,7 +58,7 @@
     "timeMonth": 316,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-05-18": 331
+      "2024-05-18": 351
     }
   },
   {
@@ -67,18 +67,18 @@
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-gql-command",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "77.04%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "75.63%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.89%",
     "time": 267,
     "timeDay": 152,
     "timeWeek": 250,
     "timeMonth": 267,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-05-18": 331,
+      "2024-05-18": 351,
       "2024-04-21": 15
     }
   },
@@ -88,18 +88,18 @@
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-gql-query",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "77.05%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "75.63%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.87%",
     "time": 270,
     "timeDay": 143,
     "timeWeek": 184,
     "timeMonth": 242,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-05-18": 331,
+      "2024-05-18": 351,
       "2024-05-14": 75
     }
   },
@@ -110,9 +110,9 @@
     "slug": "selise-blocks-identity",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "77.05%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "75.63%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.90%",
     "time": 269,
     "timeDay": 140,
@@ -120,7 +120,7 @@
     "timeMonth": 252,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-05-18": 330
+      "2024-05-18": 351
     }
   },
   {
@@ -130,9 +130,9 @@
     "slug": "selise-blocks-pdfgenerator2",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "77.05%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "75.64%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.90%",
     "time": 284,
     "timeDay": 171,
@@ -140,7 +140,7 @@
     "timeMonth": 343,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-05-18": 330
+      "2024-05-18": 351
     }
   },
   {
@@ -148,19 +148,19 @@
     "url": "https://processes.myecohub.ch/api/storageservice/v1/storageservice/management/ping",
     "icon": "https://images.selise.club/app_icon_xs_selise_8627edb2-513d-44e9-be8c-3de3461c3c05.png",
     "slug": "selise-blocks-storage-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "77.06%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "98.78%",
+    "uptimeDay": "75.66%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.84%",
-    "time": 301,
-    "timeDay": 177,
-    "timeWeek": 204,
-    "timeMonth": 260,
-    "timeYear": 301,
+    "time": 303,
+    "timeDay": 322,
+    "timeWeek": 249,
+    "timeMonth": 271,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-05-18": 330,
+      "2024-05-18": 351,
       "2024-04-21": 206
     }
   },
@@ -171,9 +171,9 @@
     "slug": "selise-blocks-template-engine",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "77.06%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "75.65%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.90%",
     "time": 284,
     "timeDay": 140,
@@ -181,7 +181,7 @@
     "timeMonth": 345,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-05-18": 330
+      "2024-05-18": 351
     }
   },
   {
@@ -191,9 +191,9 @@
     "slug": "selise-blocks-tenant-manager",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "77.07%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "75.65%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.90%",
     "time": 263,
     "timeDay": 148,
@@ -201,7 +201,7 @@
     "timeMonth": 274,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-05-18": 330
+      "2024-05-18": 351
     }
   }
 ]
