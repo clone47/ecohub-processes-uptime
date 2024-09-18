@@ -163,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 277,
-    "timeDay": 237,
-    "timeWeek": 227,
-    "timeMonth": 223,
+    "timeDay": 228,
+    "timeWeek": 224,
+    "timeMonth": 222,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2024-05-19": 381,
@@ -185,9 +185,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 284,
-    "timeDay": 213,
-    "timeWeek": 218,
-    "timeMonth": 222,
+    "timeDay": 208,
+    "timeWeek": 215,
+    "timeMonth": 221,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2024-05-19": 381,
@@ -206,33 +206,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 250,
-    "timeDay": 219,
-    "timeWeek": 213,
-    "timeMonth": 217,
+    "timeDay": 212,
+    "timeWeek": 211,
+    "timeMonth": 216,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2024-05-19": 381,
       "2024-05-18": 357
-    }
-  },
-  {
-    "name": "Gotenberg PDF Generator",
-    "url": "https://processes-gotenberg.azurewebsites.net/health",
-    "icon": "https://gotenberg.dev/img/logo.png",
-    "slug": "gotenberg-pdf-generator",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 686,
-    "timeDay": 686,
-    "timeWeek": 686,
-    "timeMonth": 686,
-    "timeYear": 686,
-    "dailyMinutesDown": {
-      "2024-09-18": 1
     }
   }
 ]
