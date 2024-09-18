@@ -214,5 +214,25 @@
       "2024-05-19": 381,
       "2024-05-18": 357
     }
+  },
+  {
+    "name": "Gotenberg PDF Generator",
+    "url": "https://processes-gotenberg.azurewebsites.net/health",
+    "icon": "https://gotenberg.dev/img/logo.png",
+    "slug": "gotenberg-pdf-generator",
+    "status": "up",
+    "uptime": "10.29%",
+    "uptimeDay": "10.29%",
+    "uptimeWeek": "10.29%",
+    "uptimeMonth": "10.29%",
+    "uptimeYear": "10.29%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-09-18": 0
+    }
   }
 ]
