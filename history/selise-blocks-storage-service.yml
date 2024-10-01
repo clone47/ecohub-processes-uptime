@@ -1,7 +1,7 @@
 url: https://processes.myecohub.ch/api/storageservice/v1/storageservice/management/ping
 status: up
 code: 200
-responseTime: 262
-lastUpdated: 2024-09-30T23:21:36.292Z
+responseTime: 216
+lastUpdated: 2024-10-01T23:20:09.828Z
 startTime: 2023-09-25T11:16:46.772Z
 generator: Upptime <https://github.com/upptime/upptime>
