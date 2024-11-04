@@ -1,7 +1,7 @@
 url: https://processes.myecohub.ch/api/pdfgenerator2/v1/PdfGeneratorHost/Management/Ping
 status: up
 code: 200
-responseTime: 186
-lastUpdated: 2024-11-03T23:21:40.592Z
+responseTime: 255
+lastUpdated: 2024-11-04T23:21:29.309Z
 startTime: 2023-09-25T11:16:45.952Z
 generator: Upptime <https://github.com/upptime/upptime>
