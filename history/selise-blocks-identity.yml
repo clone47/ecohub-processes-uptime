@@ -1,7 +1,7 @@
 url: https://processes.myecohub.ch/api/identity/v1/identity/management/ping
 status: up
 code: 200
-responseTime: 176
-lastUpdated: 2024-12-23T23:19:21.047Z
+responseTime: 164
+lastUpdated: 2024-12-24T23:19:11.373Z
 startTime: 2023-09-25T11:16:45.153Z
 generator: Upptime <https://github.com/upptime/upptime>
