@@ -1,7 +1,7 @@
 url: https://processes.myecohub.ch/api/appcatalogue/v1/appcatalogue/management/ping
-status: down
-code: 503
-responseTime: 96
-lastUpdated: 2024-12-28T07:40:07.938Z
+status: up
+code: 200
+responseTime: 361
+lastUpdated: 2024-12-28T07:45:56.975Z
 startTime: 2023-09-25T11:16:42.494Z
 generator: Upptime <https://github.com/upptime/upptime>
