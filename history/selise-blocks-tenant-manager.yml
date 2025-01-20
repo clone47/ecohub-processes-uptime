@@ -1,7 +1,7 @@
 url: https://processes.myecohub.ch/api/tenant/v1/tenantmanager/management/ping
 status: up
 code: 200
-responseTime: 152
-lastUpdated: 2025-01-19T23:18:10.547Z
+responseTime: 197
+lastUpdated: 2025-01-20T23:18:32.787Z
 startTime: 2023-09-25T11:16:48.502Z
 generator: Upptime <https://github.com/upptime/upptime>
