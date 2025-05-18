@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.93%",
     "time": 570,
     "timeDay": 847,
     "timeWeek": 671,
@@ -25,18 +25,19 @@
     "url": "https://processes.myecohub.ch/api/business-giraffe/GiraffeService/management/ping",
     "icon": "https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg",
     "slug": "giraffe-business-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.92%",
     "time": 137,
-    "timeDay": 165,
-    "timeWeek": 143,
-    "timeMonth": 127,
+    "timeDay": 166,
+    "timeWeek": 146,
+    "timeMonth": 129,
     "timeYear": 138,
     "dailyMinutesDown": {
+      "2025-05-18": 0,
       "2024-12-28": 18,
       "2024-05-19": 381
     }
@@ -51,12 +52,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.93%",
     "time": 247,
     "timeDay": 250,
     "timeWeek": 226,
     "timeMonth": 204,
-    "timeYear": 227,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2024-05-19": 381
     }
@@ -71,12 +72,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.92%",
     "time": 234,
     "timeDay": 255,
     "timeWeek": 220,
     "timeMonth": 207,
-    "timeYear": 215,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2025-01-26": 32,
       "2024-05-19": 381
@@ -92,12 +93,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.93%",
     "time": 234,
     "timeDay": 280,
     "timeWeek": 244,
     "timeMonth": 233,
-    "timeYear": 218,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2024-05-19": 381
     }
@@ -112,12 +113,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.93%",
     "time": 228,
     "timeDay": 298,
     "timeWeek": 243,
     "timeMonth": 224,
-    "timeYear": 209,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2024-05-19": 381
     }
@@ -132,12 +133,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.93%",
     "time": 261,
     "timeDay": 293,
     "timeWeek": 258,
     "timeMonth": 238,
-    "timeYear": 242,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2024-05-19": 381
     }
@@ -152,12 +153,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.93%",
     "time": 263,
     "timeDay": 288,
     "timeWeek": 261,
     "timeMonth": 292,
-    "timeYear": 249,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2024-05-19": 381
     }
@@ -172,12 +173,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.93%",
     "time": 269,
     "timeDay": 287,
     "timeWeek": 250,
     "timeMonth": 239,
-    "timeYear": 256,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2024-05-19": 381
     }
@@ -192,12 +193,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.93%",
     "time": 233,
     "timeDay": 286,
     "timeWeek": 255,
     "timeMonth": 239,
-    "timeYear": 216,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2024-05-19": 381
     }
