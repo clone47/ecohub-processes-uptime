@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 570,
-    "timeDay": 847,
-    "timeWeek": 671,
-    "timeMonth": 618,
+    "time": 571,
+    "timeDay": 718,
+    "timeWeek": 654,
+    "timeMonth": 625,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2024-09-05": 80,
-      "2024-05-19": 288
+      "2024-09-05": 80
     }
   },
   {
@@ -26,20 +25,20 @@
     "icon": "https://az-cdn.selise.biz/selisecdn/cdn/giraffe/EcoHub_Logo.svg",
     "slug": "giraffe-business-service",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.83%",
+    "uptimeDay": "61.53%",
+    "uptimeWeek": "94.50%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.82%",
     "time": 137,
-    "timeDay": 166,
-    "timeWeek": 146,
+    "timeDay": 149,
+    "timeWeek": 142,
     "timeMonth": 129,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-05-18": 0,
-      "2024-12-28": 18,
-      "2024-05-19": 381
+      "2025-05-19": 85,
+      "2025-05-18": 469,
+      "2024-12-28": 18
     }
   },
   {
@@ -54,13 +53,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 247,
-    "timeDay": 250,
-    "timeWeek": 226,
-    "timeMonth": 204,
+    "timeDay": 221,
+    "timeWeek": 220,
+    "timeMonth": 205,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2024-05-19": 381
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks GQL Command",
@@ -74,13 +71,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 234,
-    "timeDay": 255,
-    "timeWeek": 220,
-    "timeMonth": 207,
+    "timeDay": 207,
+    "timeWeek": 215,
+    "timeMonth": 209,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-01-26": 32,
-      "2024-05-19": 381
+      "2025-01-26": 32
     }
   },
   {
@@ -95,13 +91,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 234,
-    "timeDay": 280,
-    "timeWeek": 244,
-    "timeMonth": 233,
+    "timeDay": 215,
+    "timeWeek": 238,
+    "timeMonth": 232,
     "timeYear": 217,
-    "dailyMinutesDown": {
-      "2024-05-19": 381
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks Identity",
@@ -115,13 +109,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 228,
-    "timeDay": 298,
-    "timeWeek": 243,
+    "timeDay": 212,
+    "timeWeek": 236,
     "timeMonth": 224,
     "timeYear": 207,
-    "dailyMinutesDown": {
-      "2024-05-19": 381
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks Pdfgenerator2",
@@ -135,13 +127,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 261,
-    "timeDay": 293,
-    "timeWeek": 258,
+    "timeDay": 221,
+    "timeWeek": 250,
     "timeMonth": 238,
     "timeYear": 235,
-    "dailyMinutesDown": {
-      "2024-05-19": 381
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks Storage Service",
@@ -155,13 +145,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 263,
-    "timeDay": 288,
-    "timeWeek": 261,
-    "timeMonth": 292,
+    "timeDay": 240,
+    "timeWeek": 258,
+    "timeMonth": 293,
     "timeYear": 248,
-    "dailyMinutesDown": {
-      "2024-05-19": 381
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks Template Engine",
@@ -175,13 +163,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 269,
-    "timeDay": 287,
-    "timeWeek": 250,
+    "timeDay": 222,
+    "timeWeek": 243,
     "timeMonth": 239,
     "timeYear": 244,
-    "dailyMinutesDown": {
-      "2024-05-19": 381
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SELISE Blocks Tenant Manager",
@@ -195,12 +181,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 233,
-    "timeDay": 286,
-    "timeWeek": 255,
-    "timeMonth": 239,
+    "timeDay": 224,
+    "timeWeek": 250,
+    "timeMonth": 238,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2024-05-19": 381
-    }
+    "dailyMinutesDown": {}
   }
 ]
